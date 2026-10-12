@@ -122,6 +122,10 @@ AWS-EC2-S3-Nginx-Minor-Project/
 - Configuring security groups.
 - Creating S3 buckets and uploading backup files.
 
+## Instance Link
+
+![LINK]((http://3.26.158.246/))
+
 ## Conclusion
 
 Successfully deployed a static HTML website on
