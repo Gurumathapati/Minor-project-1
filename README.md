@@ -121,11 +121,29 @@ AWS-EC2-S3-Nginx-Minor-Project/
 - Hosting static websites on cloud infrastructure.
 - Configuring security groups.
 - Creating S3 buckets and uploading backup files.
+## Deployment Details
 
-## Instance Link
+| Configuration | Details |
+|---|---|
+| Cloud Provider | AWS |
+| Compute Service | Amazon EC2 |
+| Operating System | Amazon Linux 2023 |
+| Instance Type | t2.micro |
+| Web Server | Nginx |
+| Website | HTML & CSS |
+| Storage Service | Amazon S3 |
+| Protocol | HTTP |
+| Port | 80 |
+| Deployment Status | Successfully Deployed |
 
-![LINK]((http://3.26.158.246/))
+## Live Demo
 
+[Visit My AWS Cloud Project](http://3.26.158.246/)
+
+> **Note:** The live website is accessible only while
+> the EC2 instance is running and its public IP remains
+> assigned. The source code and screenshots are
+> available in this GitHub repository.
 ## Conclusion
 
 Successfully deployed a static HTML website on
